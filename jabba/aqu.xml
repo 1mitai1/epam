@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<aquarium>
+    <name>Equ</name>
+    <cost>133.7</cost>
+    <numberOfFish>9</numberOfFish>
+    <numberOfReptile>5</numberOfReptile>
+</aquarium>
