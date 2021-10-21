@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <name>Equ</name>
+    <inmateList>
+        <inmate>
+            <name>Fish1</name>
+            <cost>7.3</cost>
+            <accessoriesCost>2.1</accessoriesCost>
+            <number>3</number>
+            <class>fish</class>
+        </inmate>
+        <inmate>
+            <name>Fish2</name>
+            <cost>5.1</cost>
+            <accessoriesCost>5.1</accessoriesCost>
+            <number>2</number>
+            <class>fish</class>
+        </inmate>
+        <inmate>
+            <name>Fish3</name>
+            <cost>2.5</cost>
+            <accessoriesCost>0.1</accessoriesCost>
+            <number>4</number>
+            <class>fish</class>
+        </inmate>
+
+        <inmate>
+            <name>Reptile1</name>
+            <cost>4.3</cost>
+            <number>3</number>
+            <class>reptile</class>
+        </inmate>
+        <inmate>
+            <name>Reptile2</name>
+            <cost>30.9</cost>
+            <number>2</number>
+            <class>reptile</class>
+        </inmate>
+
+    </inmateList>
+</root>
